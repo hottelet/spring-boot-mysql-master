@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.robwin:swagger2markup:0.7.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.robwin/swagger2markup/0.7.1/bf8c17514383f05826c7dfdefd7093ce55696bf9/swagger2markup-0.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.github.robwin/swagger2markup/0.7.1/5e10ebdcc582d3ecdc4170e1d434c41f268f800a/swagger2markup-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

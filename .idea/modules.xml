@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master_main.iml" group="spring-boot-mysql-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot-mysql-master_test.iml" group="spring-boot-mysql-master" />
+    </modules>
+  </component>
+</project>
