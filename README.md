@@ -1,5 +1,9 @@
 # Spring Boot MySQL
 
+Policies:
+- Research issues you are having with your project on Stackoverflow.
+http://stackoverflow.com
+
 System PreRequisites:
 - JAVA 8 installed from Oracle (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) Windows x64, Java SE Development Kit 8u121
 - IntelliJ JAVA (https://www.jetbrains.com/idea/)
